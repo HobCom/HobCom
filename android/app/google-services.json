@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814880421991",
+    "firebase_url": "https://hobcom-98b2a.firebaseio.com",
+    "project_id": "hobcom-98b2a",
+    "storage_bucket": "hobcom-98b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814880421991:android:37d7f70b09b80761773cc2",
+        "android_client_info": {
+          "package_name": "com.example.hobcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814880421991-9rnflefmjqpibgkvvk8lp36aietbdpdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmybhXYWHmyea7SUMQ46s0T-pzgiZ4_sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814880421991-9rnflefmjqpibgkvvk8lp36aietbdpdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
